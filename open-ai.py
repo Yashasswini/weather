@@ -3,7 +3,7 @@ import requests
 from tkinter import *
 
 # Set your OpenAI API key
-api_key = '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'
+api_key=  #'your API key'
 openai.api_key = api_key
 
 root = Tk()
